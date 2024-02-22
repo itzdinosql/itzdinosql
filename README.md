@@ -1,0 +1,15 @@
+- {
+- 👋 Hi, I’m @itzdinosql
+- 👀 I’m interested in science and code
+- ----------------------------
+- 🌱 I am currently learning:
+- 🧑‍💻full stack web development
+- and as a hobby:
+- I study 🧲physics
+- 🔭astronomy
+- 🧑‍🏫mathematics
+- and some more
+- ----------------------------
+- 📫 How to reach me?: You can contact me from my email (gaelvernet.core@gmail.com) or through GitHub
+- };
+  
